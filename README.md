@@ -1,4 +1,4 @@
-# Basic-Car-Game
+# Car Game
 <img src=https://github.com/D7x8/Basic-Car-Game/blob/main/Images/Game%20in%20action.png />
 
 # How to play:
